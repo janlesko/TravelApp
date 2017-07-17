@@ -1,0 +1,1 @@
+simple app built in rails for displaying details about travel destinations with a possibility to edit the content
